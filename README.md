@@ -1,18 +1,18 @@
-#IOT Event Notification
+# IOT Event Notification
 
 This application serves as a generic event notification engine for IOT enabled routers.   The engine will react to any external event and perform some type of notification.
 
-##Examples
+## Examples
 * Sending a Spark alert anytime an external temperature sensor hits a certain threshold
 * Sending a Tropo notification anytime an external security trigger is tripped
 
 For more detailed information on the technical details behind the modules, please see [developer.md] (developer.md).    
 
 
-##Quick Start
+## Quick Start
 To quickly get started with this module, let's configure the application to automatically generate a Spark Notification anytime the weather falls below 50 degrees for zip code 16066.
 
-#####Determine the Spark Room ID to send the alert to#####
+##### Determine the Spark Room ID to send the alert to#####
 
 1. Go to https://developer.ciscospark.com/# and click on the "Log In Button"
 2. Log in using your Spark Credentials
