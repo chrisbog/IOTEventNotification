@@ -12,7 +12,7 @@ For more detailed information on the technical details behind the modules, pleas
 ## Quick Start
 To quickly get started with this module, let's configure the application to automatically generate a Spark Notification anytime the weather falls below 50 degrees for zip code 16066.
 
-##### Determine the Spark Room ID to send the alert to#####
+##### Determine the Spark Room ID to send the alert to #####
 
 1. Go to https://developer.ciscospark.com/# and click on the "Log In Button"
 2. Log in using your Spark Credentials
@@ -23,14 +23,14 @@ To quickly get started with this module, let's configure the application to auto
 7. Click on the Run Button
 8. On the Right Hand Side, you will see JSON off all the rooms that you are a member with, Pick one of the rooms and copy the value of "id" for the room that you want to send notifications
 
-#####Determine your Spark Token#####
+##### Determine your Spark Token #####
 1. Go to https://developer.ciscospark.com/# and click on the "Log In Button"
 2. Log in using your Spark Credentials
 3. Click on your picture in the top right hand corner
 4. Your Spark Token will be displayed
 5. You can Select Copy to copy that Spark ID
 
-#####Register For a Weather Underground#####
+##### Register For a Weather Underground #####
 1. Go to https://www.wunderground.com/weather/api/
 2. Click on Pricing and select the free plan and click on the "Purchase Key" button
 3. Once you have created an account, you can log in and click on "Key Settings"
